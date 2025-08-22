@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom"
 import About from './pages/About'
-import CreateEvents from './pages/CreateEvents'
+// import CreateEvents from './pages/CreateEvents'
 import BrowseEvent from './pages/BrowseEvent'
 import MyEvents from "./pages/Myevents"
 import AppLayout from "./Component/AppLayout"
